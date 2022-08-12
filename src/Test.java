@@ -5,7 +5,5 @@ public class Test {
 			System.out.println("yes");
 			System.out.println("yes");
 	  }
-  }
-	
-	
+  }	
 }
